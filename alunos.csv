@@ -1,7 +1,3 @@
-Ana, 17, 8.5
-Jo�o, 16, 7.0
-Maria, 18, 9.0
-"['nome', 'idade', 'nota']","['Ana', 17, 8.5]","['João', 16, 7.0]","['Maria', 18, 9.0]"
-"['nome', 'idade', 'nota']","['Ana', 17, 8.5]","['João', 16, 7.0]","['Maria', 18, 9.0]"
-"['nome', 'idade', 'nota']","['Ana', 17, 8.5]","['João', 16, 7.0]","['Maria', 18, 9.0]"
-"['nome', 'idade', 'nota']","['Ana', 17, 8.5]","['João', 16, 7.0]","['Maria', 18, 9.0]"
+nome,idade,nota
+Ana,17,8.5
+Maria,18,9.0

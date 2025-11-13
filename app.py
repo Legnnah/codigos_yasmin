@@ -34,12 +34,15 @@ def contato():
 
 ## Sua vez crie uma nova rota dessa vez /hobbies, la coloque algo que você goste de fazer, exemplo : Jogar bola
 
+
 # lembre- se de criar um template chamado hobbies.html
 @app.route("/hobbies")
 def hobbies():
     meus_hobbies = ['Jogar Bola', 'Dançar', 'Pescar','Programar']
     return render_template('hobbies.html', hobbies = meus_hobbies)
 
+
 ## Executando o arquivo 
 if __name__ == '__main__':
     app.run(debug=True)
+
